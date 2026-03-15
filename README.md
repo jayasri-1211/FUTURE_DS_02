@@ -1,4 +1,4 @@
-# FUTURE_DS_02
+# Task-2-FUTURE_DS_02
 Analyze customer data to identify churn patterns, key retention drivers, and customer lifetime trends for a subscription-based business.
 # About the Task
 In this real-world analytics task, you will work with customer and subscription data to understand why customers leave and what keeps them engaged.
